@@ -25,10 +25,11 @@
 
 - Tools used for this project:
 - Prerequisites
-  * Python - [**Install Python**](https://python.org)
+  * Python 
   * Text Editor
-  * Pandas (`$ pip install pandas`)
-  * Tensorflow (`$ pip install tensorflow`)
+  * Pandas 
+  * Numpy
+  * Sklearn
 - 
 
 
