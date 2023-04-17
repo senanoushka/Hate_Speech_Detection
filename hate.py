@@ -48,6 +48,7 @@ clf = DecisionTreeClassifier()
 clf.fit(X_train,y_train)
 clf.score(X_test,y_test)
 
+#Running on a simple streamlit app
 def hate_speech_detection():
     import streamlit as st
     st.title("Hate Speech Detection")
