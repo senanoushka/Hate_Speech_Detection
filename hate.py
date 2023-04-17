@@ -1,4 +1,4 @@
-from nltk.util import pr
+from nltk.probability import FreqDist, ConditionalFreqDist
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
