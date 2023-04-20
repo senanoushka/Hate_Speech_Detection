@@ -32,7 +32,7 @@
   * Sklearn
 - 
 '''
-streamlit run hate.py
+    streamlit run hate.py
 '''
 
     
