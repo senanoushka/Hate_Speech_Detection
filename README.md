@@ -34,6 +34,5 @@
 '''
     streamlit run hate.py
 '''
-
     
   
