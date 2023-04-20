@@ -31,7 +31,9 @@
   * Numpy
   * Sklearn
 - 
-
+'''
+streamlit run hate.py
+'''
 
     
   
