@@ -12,13 +12,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Detecting hate speech automatically has become a crucial research topic, and various machine learning techniques have been proposed to address this issue. In this context, hate speech detection involves developing models that can classify text data as hateful or non-hateful, and these models typically use a combination of natural language processing techniques, machine learning algorithms, and features that capture the linguistic properties of hate speech.
 
+This is a Python code for a simple hate speech detection system using the NLTK (Natural Language Toolkit) library and Scikit-learn machine learning library.
 ## Here's a few things you may wanna view
 - Our Presentation for this project:
 
     <br />
     <br />
-    <a href="url here"> Click to View Presentation</a>
+    <a href="https://docs.google.com/presentation/d/1xNElUTaY5cpS24kOaHK3_gqn2c1ltyrM4-HatF9S-Og/edit?usp=sharing"> Click to View Presentation</a>
   
 
 <br>
