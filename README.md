@@ -32,9 +32,9 @@ This is a Python code for a simple hate speech detection system using the NLTK (
   * Pandas 
   * Numpy
   * Sklearn
-
+- To Run:
 '''
-To Run:
+
     streamlit run hate.py
 '''
     
