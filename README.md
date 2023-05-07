@@ -25,7 +25,7 @@ This is a Python code for a simple hate speech detection system using the NLTK (
 
 <br>
 
-- Tools used for this project:
+
 - Prerequisites
   * Python 
   * Text Editor
