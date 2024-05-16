@@ -1,7 +1,6 @@
 
 
 # Hate Speech Detection 
-<h1 align="center">Hello there! This is a hate speech detection system </h1>
 
 
 <!-- ABOUT THE PROJECT -->
